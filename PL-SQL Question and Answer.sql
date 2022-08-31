@@ -251,3 +251,4 @@ FROM CUSTOMER_PERSONAL_INFO CPI
 INNER JOIN ACCOUNT_INFO AI
 ON CPI.CUSTOMER_ID=AI.CUSTOMER_ID;
 
+====================================================================================
